@@ -1,18 +1,14 @@
+#include "main.h"
+
 /**
  *
- *  * reset_to_98 - takes a pointer to an int parameter
+ *  * reset_to_98-Resets the value of a variable back to 98.
  *
- *   *               and updates the value it points to 98
+ *   * @n:Variable to be reset.
  *
- *    *
+ *    * Return:Void.
  *
- *     * @n: int parameter
- *
- *      *
- *
- *       * Return: Nothing
- *
- *        */
+ *     */
 
 
 
